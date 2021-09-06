@@ -119,6 +119,23 @@ bool = isInt32Array( null );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/assert/is-int16array`][@stdlib/assert/is-int16array]: test if a value is an Int16Array.
+-   [`@stdlib/assert/is-int8array`][@stdlib/assert/is-int8array]: test if a value is an Int8Array.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -175,6 +192,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-int32array/main/LICENSE
 
 [mdn-int32array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array
+
+<!-- <related-links> -->
+
+[@stdlib/assert/is-int16array]: https://github.com/stdlib-js/assert-is-int16array
+
+[@stdlib/assert/is-int8array]: https://github.com/stdlib-js/assert-is-int8array
+
+<!-- </related-links> -->
 
 </section>
 
