@@ -1,0 +1,51 @@
+{
+  "name": "@stdlib/assert-is-int32array",
+  "version": "0.0.0",
+  "description": "Test if a value is an Int32Array.",
+  "license": "Apache-2.0",
+  "main": "./bundle.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/assert-is-int32array.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdassert",
+    "assertion",
+    "assert",
+    "utilities",
+    "utility",
+    "utils",
+    "util",
+    "int32array",
+    "int32",
+    "signed",
+    "integer",
+    "int",
+    "long",
+    "word",
+    "longword",
+    "doubleword",
+    "typed",
+    "typed array",
+    "typed-array",
+    "array",
+    "is",
+    "isarray",
+    "istypedarray",
+    "type",
+    "check",
+    "validate",
+    "valid",
+    "isvalid",
+    "test"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
