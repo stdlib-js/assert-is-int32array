@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isInt32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int32array@esm/index.mjs';
+import isInt32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int32array@v0.1.0-esm/index.mjs';
 ```
 
 #### isInt32Array( value )
@@ -84,7 +84,7 @@ import Int32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-int32@esm/in
 import Uint32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint32@esm/index.mjs';
 import Float32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float32@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
-import isInt32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int32array@esm/index.mjs';
+import isInt32Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-int32array@v0.1.0-esm/index.mjs';
 
 var bool = isInt32Array( new Int32Array( 10 ) );
 // returns true
